@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my injured Post ACL Op knee<br>👯 I’m looking to collaborate on PewDiePie<br>🤝 I’m looking for help with my lecture memorization<br>🌱 I’m currently learning to play basketball again<br>💬 Ask me about my ACL journey<br>⚡ Fun fact I'm supposed to be a UAAP Basketball Athlete
+🔭 I’m currently working on my injured Post ACL Op knee<br>👯 I’m looking to collaborate on PewDiePie<br>🤝 I’m looking for help with my lecture memorization<br>🌱 I’m currently learning to play basketball again<br>💬 Ask me about my ACL journey<br>⚡ The goal: To be a UAAP Basketball Athlete
 
 
 # 💻 Tech Stack:
