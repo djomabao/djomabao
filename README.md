@@ -1,13 +1,11 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%202/branding/banner/DASH%20banner.png" 
-    alt="DASH Banner" 
-    width="900" 
-  />
-</p>
+# 🏀 About Me
+---
 
-# 💫 About Me:
-🔭 I’m currently working on my injured Post ACL Op knee<br>👯 I’m looking to collaborate on PewDiePie<br>🤝 I’m looking for help with my lecture memorization<br>🌱 I’m currently relearning to play basketball again<br>💬 Ask me about my ACL journey<br>⚡ The goal: To be a UAAP Basketball Athlete
+- Currently in recovery following a **post-ACL operation**, focusing on rebuilding strength, discipline, and long-term consistency.  
+- Actively **relearning how to play basketball**, applying structured training principles used in both athletics and academics.  
+- Interested in **collaborating on creative and technical projects**, particularly those that integrate design, branding, and technology.  
+- Continuously improving **learning strategies**, including memory retention and focus techniques to enhance academic performance.  
+- Long-term goal is to compete as a **UAAP basketball athlete**, driven by resilience, commitment, and purpose.
 
 
 # 💻 Tech Stack:
