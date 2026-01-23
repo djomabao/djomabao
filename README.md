@@ -1,5 +1,4 @@
 # 🏀 About Me
----
 
 - Currently in recovery following a **post-ACL operation**, focusing on rebuilding strength, discipline, and long-term consistency.  
 - Actively **relearning how to play basketball**, applying structured training principles used in both athletics and academics.  
