@@ -1,10 +1,10 @@
 # 🏀 About Me
 
-- Currently in recovery following a **post-ACL operation**, focusing on rebuilding strength, discipline, and long-term consistency.  
-- Actively **relearning how to play basketball**, applying structured training principles used in both athletics and academics.  
-- Interested in **collaborating on creative and technical projects**, particularly those that integrate design, branding, and technology.  
-- Continuously improving **learning strategies**, including memory retention and focus techniques to enhance academic performance.  
-- Long-term goal is to compete as a **UAAP basketball athlete**, driven by resilience, commitment, and purpose.
+- 🏥 **Post-ACL recovery in progress**, rebuilding strength, discipline, and long-term athletic consistency.  
+- 🏀 **Relearning competitive basketball**, applying structured training principles both on and off the court.  
+- 🤝 **Open to collaboration** on creative, branding, and tech-driven projects that combine performance and design.  
+- 🧠 **Continuously refining learning strategies**, focusing on memory retention, focus, and productivity.  
+- ⚡ **Career goal:** Compete as a **UAAP basketball athlete**, driven by resilience, purpose, and performance.
 
 
 # 💻 Tech Stack:
