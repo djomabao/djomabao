@@ -2,7 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%202/branding/banner/DASH%20banner.png" 
     alt="DASH Banner" 
-    width="100%" 
+    width="900" 
   />
 </p>
 
